@@ -22,8 +22,8 @@ public class LinuxCmd {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.out.print("Error");
-		}
+			System.out.print("Error!!");
+		} 
 		return result;
 
 		
